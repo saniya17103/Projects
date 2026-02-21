@@ -7,7 +7,7 @@ This dashboard provides a comprehensive view of revenue trends, profit analysis,
 
 ## 🎯 Objectives
 
--Compare Current Year vs Previous Year performance
+Compare Current Year vs Previous Year performance
 
 Analyze Sales, Profit, and Quantity trends
 
@@ -18,7 +18,7 @@ Track Monthly Sales Trends & Growth %
 Enable interactive filtering for deeper analysis
 
 ## 📈 Dashboard Features
-1️⃣ KPI Summary Section
+### 1️⃣ KPI Summary Section
 
 Total Sales (CY vs PY)
 
@@ -28,13 +28,13 @@ Sales Growth %
 
 Profit Growth %
 
-2️⃣ Monthly Trend Analysis
+### 2️⃣ Monthly Trend Analysis
 
 Line charts comparing CY vs PY
 
 Clear visualization of seasonality and growth patterns
 
-3️⃣ Product Performance Analysis
+### 3️⃣ Product Performance Analysis
 
 Top & Bottom Performing Products
 
@@ -42,7 +42,7 @@ Profitability comparison
 
 Contribution to overall revenue
 
-4️⃣ Customer Insights
+### 4️⃣ Customer Insights
 
 Top customers by sales
 
@@ -50,7 +50,7 @@ Profit contribution by customer
 
 Customer segmentation insights
 
-5️⃣ Interactive Filters
+### 5️⃣ Interactive Filters
 
 Year Selection
 
@@ -74,7 +74,7 @@ Dashboard Actions
 
 ## 📂 Dataset Used
 
-The dataset includes:
+#### The dataset includes:
 
 Orders Data
 
@@ -110,7 +110,7 @@ Compared YoY business growth performance
 
 ## 🚀 Business Impact
 
-This dashboard helps stakeholders:
+#### This dashboard helps stakeholders:
 
 Monitor business health in real time
 
@@ -128,5 +128,5 @@ Dataset: Sample Data.zip
 
 ## 👩‍💻 Author
 
-Saniya Shaikh
+**Saniya Shaikh**
 Aspiring Data Analyst | Tableau | SQL | Excel | Power BI
