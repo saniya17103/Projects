@@ -9,13 +9,13 @@ This dashboard provides a comprehensive view of revenue trends, profit analysis,
 
 - Compare Current Year vs Previous Year performance
 
-Analyze Sales, Profit, and Quantity trends
+- Analyze Sales, Profit, and Quantity trends
 
-Identify Top & Bottom Performing Products and Customers
+- Identify Top & Bottom Performing Products and Customers
 
-Track Monthly Sales Trends & Growth %
+- Track Monthly Sales Trends & Growth %
 
-Enable interactive filtering for deeper analysis
+- Enable interactive filtering for deeper analysis
 
 ## 📈 Dashboard Features
 ### 1️⃣ KPI Summary Section
