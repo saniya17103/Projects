@@ -126,5 +126,5 @@ This dashboard provides a comprehensive view of revenue trends, profit analysis,
 
 ## 👩‍💻 Author
 
-**Saniya Shaikh**
+**Saniya Shaikh** -
 Aspiring Data Analyst | Tableau | SQL | Excel | Power BI | Python
