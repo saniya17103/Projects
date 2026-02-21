@@ -20,113 +20,111 @@ This dashboard provides a comprehensive view of revenue trends, profit analysis,
 ## 📈 Dashboard Features
 ### 1️⃣ KPI Summary Section
 
-Total Sales (CY vs PY)
+- Total Sales (CY vs PY)
 
-Total Profit (CY vs PY)
+- Total Profit (CY vs PY)
 
-Sales Growth %
+- Sales Growth %
 
-Profit Growth %
+- Profit Growth %
 
 ### 2️⃣ Monthly Trend Analysis
 
-Line charts comparing CY vs PY
+- Line charts comparing CY vs PY
 
-Clear visualization of seasonality and growth patterns
+- Clear visualization of seasonality and growth patterns
 
 ### 3️⃣ Product Performance Analysis
 
-Top & Bottom Performing Products
+- Top & Bottom Performing Products
 
-Profitability comparison
+- Profitability comparison
 
-Contribution to overall revenue
+- Contribution to overall revenue
 
 ### 4️⃣ Customer Insights
 
-Top customers by sales
+- Top customers by sales
 
-Profit contribution by customer
+- Profit contribution by customer
 
-Customer segmentation insights
+- Customer segmentation insights
 
 ### 5️⃣ Interactive Filters
 
-Year Selection
+- Year Selection
 
-Region Filter
+- Region Filter
 
-Category & Sub-Category Filter
+- Category & Sub-Category Filter
 
-Dynamic drill-down capability
+- Dynamic drill-down capability
 
 ## 🛠️ Tools & Technologies Used
 
-Tableau Public / Tableau Desktop
+- Tableau Public / Tableau Desktop
 
-Data Cleaning & Transformation
+- Data Cleaning & Transformation
 
-Calculated Fields (YoY Growth, KPIs)
+- Calculated Fields (YoY Growth, KPIs)
 
-Parameters & Filters
+- Parameters & Filters
 
-Dashboard Actions
+- Dashboard Actions
 
 ## 📂 Dataset Used
 
 #### The dataset includes:
 
-Orders Data
+- Orders Data
 
-Customers Data
+- Customers Data
 
-Products Data
+- Products Data
 
-Location Data
+- Location Data
 
 #### Key fields analyzed:
 
-Order Date
+- Order Date
 
-Sales
+- Sales
 
-Profit
+- Profit
 
-Quantity
+- Quantity
 
-Category & Sub-Category
+- Category & Sub-Category
 
-Region & State
+- Region & State
 
 ## 📊 Key Insights
 
-Identified months with highest revenue growth
+- Identified months with highest revenue growth
 
-Highlighted underperforming product categories
+- Highlighted underperforming product categories
 
-Analyzed profit margins across regions
+- Analyzed profit margins across regions
 
-Compared YoY business growth performance
+- Compared YoY business growth performance
 
 ## 🚀 Business Impact
 
 #### This dashboard helps stakeholders:
 
-Monitor business health in real time
+- Monitor business health in real time
 
-Identify growth opportunities
+- Identify growth opportunities
 
-Detect declining product performance
+- Detect declining product performance
 
-Make strategic decisions based on trends
+- Make strategic decisions based on trends
 
 ## 📎 Project File
 
-Tableau Workbook: Sales Dashboard (Tableau).twbx
-
-Dataset: Sample Data.zip
+- Tableau Workbook: Sales Dashboard (Tableau).twbx
 
 ## 👩‍💻 Author
 
 **Saniya Shaikh**
-Aspiring Data Analyst | Tableau | SQL | Excel | Power BI
+Aspiring Data Analyst | Tableau | SQL | Excel | Power BI | Python
