@@ -122,7 +122,7 @@ This dashboard provides a comprehensive view of revenue trends, profit analysis,
 
 ## 📎 Project File
 
-- Tableau Workbook: Sales Dashboard (Tableau).twbx
+Tableau Workbook: Sales Dashboard (Tableau).twbx
 
 ## 👩‍💻 Author
 
