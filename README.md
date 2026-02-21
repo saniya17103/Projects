@@ -1,11 +1,11 @@
 # 📊 Sales Performance Dashboard – Tableau
-📌 Project Overview
+## 📌 Project Overview
 
 The Sales Performance Dashboard is an interactive business intelligence solution built using Tableau to analyze and compare Current Year (CY) vs Previous Year (PY) sales performance.
 
 This dashboard provides a comprehensive view of revenue trends, profit analysis, customer performance, and product insights to support data-driven decision-making.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Compare Current Year vs Previous Year performance
 
@@ -17,7 +17,7 @@ Track Monthly Sales Trends & Growth %
 
 Enable interactive filtering for deeper analysis
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 1️⃣ KPI Summary Section
 
 Total Sales (CY vs PY)
@@ -60,7 +60,7 @@ Category & Sub-Category Filter
 
 Dynamic drill-down capability
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 Tableau Public / Tableau Desktop
 
@@ -72,7 +72,7 @@ Parameters & Filters
 
 Dashboard Actions
 
-📂 Dataset Used
+## 📂 Dataset Used
 
 The dataset includes:
 
@@ -84,7 +84,7 @@ Products Data
 
 Location Data
 
-Key fields analyzed:
+#### Key fields analyzed:
 
 Order Date
 
@@ -98,7 +98,7 @@ Category & Sub-Category
 
 Region & State
 
-📊 Key Insights
+## 📊 Key Insights
 
 Identified months with highest revenue growth
 
@@ -108,7 +108,7 @@ Analyzed profit margins across regions
 
 Compared YoY business growth performance
 
-🚀 Business Impact
+## 🚀 Business Impact
 
 This dashboard helps stakeholders:
 
@@ -120,13 +120,13 @@ Detect declining product performance
 
 Make strategic decisions based on trends
 
-📎 Project File
+## 📎 Project File
 
 Tableau Workbook: Sales Dashboard (Tableau).twbx
 
 Dataset: Sample Data.zip
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Saniya Shaikh
 Aspiring Data Analyst | Tableau | SQL | Excel | Power BI
