@@ -7,7 +7,7 @@ This dashboard provides a comprehensive view of revenue trends, profit analysis,
 
 ## 🎯 Objectives
 
-Compare Current Year vs Previous Year performance
+-Compare Current Year vs Previous Year performance
 
 Analyze Sales, Profit, and Quantity trends
 
